@@ -1,6 +1,6 @@
 <style>
     .header {
-        background-image: url('https://cdn.discordapp.com/attachments/1106143248075980843/1107350931403710575/anonymous.gif');
+        background-image: url('https://cdn.discordapp.com/attachments/1106143248075980843/1107353022603993098/anna.gif');
         background-repeat: no-repeat;
         background-size: cover;
         padding: 0;
