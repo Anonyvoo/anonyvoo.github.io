@@ -5,7 +5,7 @@
         background-size: cover;
         padding: 0;
         margin: 0;
-        height: 298px;
+        height: 400px;
     }
 </style>
 
