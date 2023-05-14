@@ -27,9 +27,4 @@
 </div>
 
 
-<div class="content">
-    <img src="https://cdn.discordapp.com/attachments/1102436734123388928/1107328626837434448/eee.png" alt="Image Description">
-    <a href="[https://example.com](https://discord.gg/n6bdnk5nUG)"><button class="button">Button 1</button></a>
-</div>
-
 
