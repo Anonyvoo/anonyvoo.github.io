@@ -23,7 +23,7 @@
 <div class="header"></div>
 
 <div class="content">
-    <a href="[https://example.com](https://discord.gg/n6bdnk5nUG)"><button class="button">Button 1</button></a>
+    <a href="[https://example.com](https://discord.gg/n6bdnk5nUG)"><button class="Discord">Button 1</button></a>
 </div>
 
 
