@@ -11,3 +11,16 @@
 
 <div class="banner"></div>
 
+<style>
+    .banner {
+        background-image: url('https://cdn.discordapp.com/attachments/1102436734123388928/1107318147352105044/ww.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 0;
+        margin: 0;
+        height: 200px;
+    }
+</style>
+
+<div class="banner"></div>
+
