@@ -18,20 +18,25 @@
         height: auto;
         margin: 0 10px;
     }
+    .Discord {
+        background-color: #7289da;
+        border: none;
+        color: #fff;
+        padding: 12px 24px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
 </style>
 
 <div class="header"></div>
 
 <div class="content">
     <img src="https://cdn.discordapp.com/attachments/1102436734123388928/1107328626837434448/eee.png" alt="Image Description">
+    <a href="https://discord.gg/n6bdnk5nUG"><button class="Discord">Discord</button></a>
 </div>
-
-
-<div class="header"></div>
-
-<div class="content">
-    <a href="[https://example.com](https://discord.gg/n6bdnk5nUG)"><button class="Discord">Button 1</button></a>
-</div>
-
 
 
