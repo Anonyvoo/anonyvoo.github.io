@@ -1,6 +1,8 @@
 <style>
     .banner {
-        background-color: #0077B5;
+        background-image: url('https://i.imgur.com/8K98xX9.png');
+        background-repeat: no-repeat;
+        background-size: cover;
         color: white;
         padding: 10px;
         font-size: 24px;
@@ -10,5 +12,6 @@
 
 <div class="banner">
     <h1>Anonyvoo</h1>
-    <p>The Best DAYZ BOT</p>
+    <p>A brief description of your project</p>
 </div>
+
