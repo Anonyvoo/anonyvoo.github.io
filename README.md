@@ -40,4 +40,24 @@
     <a href="https://discord.gg/n6bdnk5nUG"><button class="Discord">Discord</button></a>
 </div>
 
+<div class="categories">
+  <div class="category">
+    <h2>DAYZ Mods</h2>
+    <p>Console Mods for DayZ. Have you ever wanted a custom base? With Anonymous OO Skill, he can make you one!</p>
+  </div>
+  <div class="category">
+    <h2>DAYZ BOT</h2>
+    <p>Creating a killfeed for DayZ, radar, and other useful tools.</p>
+  </div>
+  <div class="category">
+    <h2>SERVER DEVELOPMENTS</h2>
+    <p>Server developments is a plug-and-play kind of server service. If you ever wanted to run your own server without any knowledge, I can run it all for you for a fee. You pay for the server every month, and I can code it and get it perfect to how you want it.</p>
+  </div>
+  <div class="category">
+    <h2>DISCORD BOT DEVELOPMENTS</h2>
+    <p>Creating unique bots for Discord, making complex things happen.</p>
+  </div>
+</div>
+
+
 
