@@ -40,34 +40,28 @@
     <a href="https://discord.gg/n6bdnk5nUG"><button class="Discord">Discord</button></a>
 </div>
 
-<style>
-  .categories {
-    background-color: black;
-  }
-  .category {
-    color: orange;
-  }
-  .category h2 {
-    color: orange;
-  }
-</style>
+const embed = {
+  color: '#ff0000',
+  title: 'Categories',
+  description: 'Take your experience to the next level with custom mods and tools designed to enhance your gameplay and streamline your server management.',
+  fields: [
+    {
+      name: 'DAYZ Mods',
+      value: 'Take your DayZ experience to the next level with custom console mods tailored to your preferences. Our team, led by Anonymous OO Skill, can create personalized bases, unique gameplay mechanics, and much more.',
+    },
+    {
+      name: 'DAYZ BOT',
+      value: 'Enhance your DayZ server with powerful bot tools designed to streamline your gameplay. Our bot development team can create custom killfeeds, advanced radar systems, and other useful tools to optimize your DayZ experience.',
+    },
+    {
+      name: 'SERVER DEVELOPMENTS',
+      value: 'Running a server has never been easier. Our plug-and-play server development service takes care of everything, from setting up your server to custom coding plugins that fit your specific needs. Sit back, relax, and let us handle the hard work for you.',
+    },
+    {
+      name: 'DISCORD BOT DEVELOPMENTS',
+      value: 'Get the most out of your Discord server with unique and powerful bots. Our team of developers can create custom bots tailored to your needs, whether you need to automate tasks, moderate your community, or add advanced functionality to your server.',
+    },
+  ],
+};
 
-<div class="categories">
-  <div class="category">
-    <h2>DAYZ Mods</h2>
-    <p>Take your DayZ experience to the next level with custom console mods tailored to your preferences. Our team, led by Anonymous OO Skill, can create personalized bases, unique gameplay mechanics, and much more.</p>
-  </div>
-  <div class="category">
-    <h2>DAYZ BOT</h2>
-    <p>Enhance your DayZ server with powerful bot tools designed to streamline your gameplay. Our bot development team can create custom killfeeds, advanced radar systems, and other useful tools to optimize your DayZ experience.</p>
-  </div>
-  <div class="category">
-    <h2>SERVER DEVELOPMENTS</h2>
-    <p>Running a server has never been easier. Our plug-and-play server development service takes care of everything, from setting up your server to custom coding plugins that fit your specific needs. Sit back, relax, and let us handle the hard work for you.</p>
-  </div>
-  <div class="category">
-    <h2>DISCORD BOT DEVELOPMENTS</h2>
-    <p>Get the most out of your Discord server with unique and powerful bots. Our team of developers can create custom bots tailored to your needs, whether you need to automate tasks, moderate your community, or add advanced functionality to your server.</p>
-  </div>
-</div>
-
+message.channel.send({ embed: embed });
