@@ -39,6 +39,19 @@
 <div class="content">
     <a href="https://discord.gg/n6bdnk5nUG"><button class="Discord">Discord</button></a>
 </div>
+
+<style>
+  .categories {
+    background-color: black;
+  }
+  .category {
+    color: orange;
+  }
+  .category h2 {
+    color: orange;
+  }
+</style>
+
 <div class="categories">
   <div class="category">
     <h2>DAYZ Mods</h2>
@@ -57,7 +70,4 @@
     <p>Get the most out of your Discord server with unique and powerful bots. Our team of developers can create custom bots tailored to your needs, whether you need to automate tasks, moderate your community, or add advanced functionality to your server.</p>
   </div>
 </div>
-
-
-
 
